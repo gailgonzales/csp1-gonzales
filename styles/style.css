@@ -1,0 +1,60 @@
+body {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+.card {
+	margin: 10px;
+	background-color: lightsteelblue;
+
+}
+
+.card-title {
+	padding: 5px;
+	color: white;
+}
+
+.navbar {
+	align-content: center;
+}
+
+.form {
+	margin: 0 auto; 
+}
+
+.form-group {
+	margin: 10px;
+	color: white;
+	padding: 30px;
+	width: 800px;
+	text-align: center;
+	background-color: rosybrown;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.btn {
+	margin-top: 10px;
+	color: white;
+	background-color: lightsteelblue;
+	width: 200px;
+}
+
+.carousel-caption {
+	background-color: black;
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon {
+	background-color: black;
+}
+
+.carousel-inner {
+	height: 	700px;
+}
