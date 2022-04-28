@@ -2,6 +2,12 @@ body {
 	margin: 0;
 	padding: 0;
 	border: 0;
+	background-image: url(../images/full-bg.jpg);
+}
+
+#landing {
+	height: 30rem;
+	background-color: darkgrey;
 }
 
 .card {
@@ -11,50 +17,38 @@ body {
 }
 
 .card-title {
-	padding: 5px;
+	margin-top: 20px;
 	color: white;
 }
 
 .navbar {
 	align-content: center;
+	background-color: peachpuff;
 }
 
-.form {
-	margin: 0 auto; 
-}
-
-.form-group {
+form {
 	margin: 10px;
 	color: white;
 	padding: 30px;
-	width: 800px;
 	text-align: center;
-	background-color: rosybrown;
+	background-color: thistle;
 }
 
-.fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 50px;
-  text-align: center;
-  text-decoration: none;
+.form-label,.form-control {
+	margin-top: 10 px;
+	margin-bottom: 10px;
 }
 
 .btn {
 	margin-top: 10px;
 	color: white;
-	background-color: lightsteelblue;
+	background-color: powderblue;
 	width: 200px;
 }
 
-.carousel-caption {
-	background-color: black;
-}
-
-.carousel-control-next-icon, .carousel-control-prev-icon {
-	background-color: black;
-}
-
-.carousel-inner {
-	height: 	700px;
+.btn-2 {
+	margin-top: 10px;
+	color: white;
+	background-color: darkgrey;
+	width: 200px;
 }
